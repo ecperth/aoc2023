@@ -1,0 +1,8 @@
+#goland
+/.idea/*
+!/.idea/fileTemplates
+/.idea/fileTemplates/*
+!/.idea/fileTemplates/aoc_2023_day.go
+
+/inputs
+main
